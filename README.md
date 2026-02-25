@@ -92,4 +92,4 @@ This project is for educational and demonstration purposes.
 Flight-Booking-App-MERN
 
 Demo Vedio Link: https://drive.google.com/file/d/1KtB_z6NDyo39xOchg242X2H3NaMgAKUE/view?usp=sharing
-ZIP file: 
+ZIP file: https://drive.google.com/file/d/1IDwwU24GE59a8pl2r7yZi5XPoiKbWgy-/view?usp=sharing
