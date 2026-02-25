@@ -116,7 +116,6 @@ Flight-Booking-App-MERN-main/
 This project is for educational and demonstration purposes.
 
 # Flight-Booking-App-MERN
-Demo - <a href="https://drive.google.com/file/d/1KtB_z6NDyo39xOchg242X2H3NaMgAKUE/view?usp=drive_link">view video</a>
+Demo - https://drive.google.com/file/d/1KtB_z6NDyo39xOchg242X2H3NaMgAKUE/view?usp=sharing
 ZIP FILE - <a href="https://drive.google.com/file/d/1WgVXGioYtnBC2-Kn9d6JfR1ONsgpPoZx/view?usp=drive_link">flight finder application zip file<a>
-# Flight-Booking-App-MERN
-Demo - <a href="https://drive.google.com/file/d/1Q0XwKtAz7EkaKNJv3_gbo6mZE9nfuBTK/view?usp=drive_link">view video</a>
+
